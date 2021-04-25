@@ -1,4 +1,4 @@
-# Telco-Churn-Prediction
+# [Telco-Churn-Prediction](https://github.com/Katleho10/Telco-Churn-Prediction/blob/main/Telecommunication%20churn%20predictions.ipynb)
 
 The aim of this study was to create classification models for the churn dataset and to predict whether a customer will churn by creating models and to obtain maximum accuracy score in the established models. The work done is as follows:
 
